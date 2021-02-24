@@ -54,11 +54,3 @@ List of queries that can be executed:
 		<attributeN> 
 		<end_table>  
 		
-### Sample input :
-```
-	python3 sql-engine.py "SELECT * from table1 ORDER BY C;"
-```
-
-### Sample output:
-
-![](https://github.com/manikgupta11/Mini-SQL-Engine/blob/main/sample-output.png)
